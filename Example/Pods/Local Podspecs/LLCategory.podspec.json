@@ -1,0 +1,22 @@
+{
+  "name": "LLCategory",
+  "version": "0.1.0",
+  "summary": "A short description of LLCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李帅兵/LLCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李帅兵": "876637125@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/李帅兵/LLCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LLCategory/Classes/**/*"
+}
